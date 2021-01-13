@@ -5,7 +5,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cloud.AzureAD.Authentication
+namespace Cloud.AzureAD.Authentication.Graph
 {
     public class TokenService
     {
