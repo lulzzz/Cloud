@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Cloud.AzureAD.Authentication.MS
 {
-    public class HttpClientService : IHttpClientService
+    public class HttpClientService :IHttpClientService
     {
         private static ILog _logger = LogManager.GetLogger(typeof(HttpClientService));
         public HttpClientService()
